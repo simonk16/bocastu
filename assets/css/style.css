@@ -1,0 +1,14 @@
+body {
+    background-image: url("../img/PSExpress_2020-09-04_18-11-13_116.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+#navBar {
+    padding-top: 20px;
+
+}
+
+.nav-link {
+    color: red;
+}
